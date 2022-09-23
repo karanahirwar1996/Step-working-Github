@@ -1,0 +1,9 @@
+code 1
+git status
+code 2
+git config --local user.name "karanahirwar1996"
+code 3
+git config --local user.email "karan.ahirwar1996@gmail.com"
+
+U - stant for "Untracked files"
+M - merge
